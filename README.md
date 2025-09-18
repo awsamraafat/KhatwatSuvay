@@ -70,7 +70,7 @@ quiz-app-standalone/
 ---
 
 ### 4. Update JavaScript
-In `script-standalone.js`, update:  
+In `script.js`, update:  
 ```js
 const APPS_SCRIPT_URL = 'YOUR_APPS_SCRIPT_URL_HERE';
 ```
